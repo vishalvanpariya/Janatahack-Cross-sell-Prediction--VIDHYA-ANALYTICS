@@ -1,5 +1,5 @@
 # Janatahack-Cross-sell-Prediction--VIDHYA-ANALYTICS
-116th Rnak out of 20k competitor
+116th Rank out of 20k competitor
 
 ## Source:
 [Janatahack](https://datahack.analyticsvidhya.com/contest/janatahack-cross-sell-prediction/)
